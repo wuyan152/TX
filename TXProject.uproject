@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F4892E33-41E0-DB7E-7C19-7CA020F46790}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TXProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
